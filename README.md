@@ -1,2 +1,2 @@
 # programming-elixir
-elixir book exercizes
+elixir book exercises
